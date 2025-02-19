@@ -6,3 +6,4 @@ q = ['a','e','i','o','u','y']
 for i in s:
     if i in q:
         print(i)
+print('hello')
